@@ -240,15 +240,15 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 55%;
-    top: -15%;
+    left: 65%;
+    top: -125%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 55%;
-    top: -15%;
+    left: 65%;
+    top: -25%;
   }
 }
 
