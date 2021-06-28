@@ -1,4 +1,3 @@
-
 html {
   box-sizing: border-box;
 }
@@ -128,13 +127,14 @@ body {
   height: auto;
 }
 
-six .hat {
+.six .hat {
   position: absolute;
-  width: 80px;
-  top: -10%;
-  left: 57.5%;
-/*   /* transform: scale(0.1);  */
-} 
+  width: 50px;
+  top: -14.5%;
+  /* bottom: 200px; */
+  left: 54.8%;
+  /* transform: scale(0.1); */
+}
 
 .baloons img {
   display: inline-block;
@@ -239,31 +239,29 @@ six .hat {
 }
 
 /* Media Queries */
-/* @media screen and (max-height: 1000px) {
-  .six .hat {
-    left: 55%;
-    top: -40px;
+/* @media screen and (max-height: 1000px) { */
+  /* .six .hat {
+    left: 65%;
+    top: -125%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 55%;
-    top: -40px;
+    left: 65%;
+    top: -25%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
     left: 52%;
-    top: -40px;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
     left: 52%;
-    top: -40px;
   }
 } */
 
@@ -289,10 +287,10 @@ six .hat {
     font-size: 10rem;
   }
 
-  .six .hat {
+  /* .six .hat {
     width: 70px;
-    top: -10px;
-  }
+    top: -30px;
+  } */
 
   .wish-hbd {
     font-size: 2.2em;
