@@ -1,3 +1,4 @@
+
 html {
   box-sizing: border-box;
 }
@@ -240,29 +241,27 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 60%;
-    top: -20%;
+    left: 55%;
+    top: -15%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 60%;
-    top: -20%;
+    left: 55%;
+    top: -15%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 57%;
-    top: -10%;
+    left: 52%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 57%;
-    top: -10%;
+    left: 52%;
   }
 }
 
