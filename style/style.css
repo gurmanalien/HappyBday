@@ -128,13 +128,13 @@ body {
   height: auto;
 }
 
-.six .hat {
+six .hat {
   position: absolute;
   width: 80px;
-  top: -80px;
+  top: -90px;
   left: 57.5%;
-  /* transform: scale(0.1); */
-}
+/*   /* transform: scale(0.1);  */
+} 
 
 .baloons img {
   display: inline-block;
@@ -239,7 +239,7 @@ body {
 }
 
 /* Media Queries */
-@media screen and (max-height: 1000px) {
+/* @media screen and (max-height: 1000px) {
   .six .hat {
     left: 55%;
     top: -40px;
@@ -265,7 +265,7 @@ body {
     left: 52%;
     top: -40px;
   }
-}
+} */
 
 @media screen and (max-width: 500px) {
   .container {
